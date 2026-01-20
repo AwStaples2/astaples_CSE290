@@ -1,6 +1,7 @@
-//#include "cube.h"
-#include "cube.cpp"
+#include "cube.h"
 #include <iostream>
+
+using namespace mysquare;
 
 int main() {
     cube c;

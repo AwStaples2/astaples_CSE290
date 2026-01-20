@@ -5,6 +5,7 @@
 // #ifndef CUBE_H
 // #define CUBE_H
 
+namespace mysquare{
 class cube {
 
     public:
@@ -18,3 +19,4 @@ class cube {
         double length_;
         double width_;
 };
+}
