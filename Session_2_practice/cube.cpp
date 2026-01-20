@@ -8,7 +8,7 @@ void cube::setWidth(double width) {
     width_ = width;
 }
 
-int cube::getArea() {
+double cube::getArea() {
     double area = width_ * length_;
     return area;
 }

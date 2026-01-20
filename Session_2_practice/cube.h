@@ -5,7 +5,7 @@ class cube {
 
         void setWidth(double);
 
-        int getArea();
+        double getArea();
 
     private:
         double length_;

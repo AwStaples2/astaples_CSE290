@@ -1,4 +1,5 @@
-#include "cube.h"
+//#include "cube.h"
+#include "cube.cpp"
 #include <iostream>
 
 int main() {
